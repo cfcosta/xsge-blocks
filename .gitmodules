@@ -1,0 +1,3 @@
+[submodule "src/xsge"]
+	path = src/xsge
+	url = git://github.com/sryche/xsge.git
